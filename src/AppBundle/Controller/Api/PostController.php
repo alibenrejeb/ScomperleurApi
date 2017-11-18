@@ -15,7 +15,7 @@ class PostController extends Controller
 
     /**
      *@ApiDoc(
-     *      resource=true,
+     *     resource=true,
      *     description="Get one single post",
      *     requirements={
      *         {
